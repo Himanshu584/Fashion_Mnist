@@ -6,3 +6,7 @@ fashion mnist is publically available dataset and also is inbuilt into tensorflo
 
 - To load the fashion mnist dataset into your code run the following command :- 
                   `fashion_mnist = tf.keras.datasets.fashion_mnist` 
+
+
+To download this repository use command :- 
+                  `git clone https://github.com/Himanshu584/Fashion_Mnist`
